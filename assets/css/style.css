@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 
+
 /* brand color palette */
 :root {
   --primary: rgb(63, 107, 165);
@@ -51,6 +52,7 @@ header h1 {
   padding: 5px 1% 5px 6%;
   margin: 0;
   font-size: 4vw;
+  font-style:inherit
   line-height: 1;
 }
 
